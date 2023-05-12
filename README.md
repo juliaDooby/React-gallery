@@ -6,7 +6,7 @@
 
 ### Deploy ссылка: 
 
- wolf-gallery-indol.vercel.app
+ [посмотреть](wolf-gallery-indol.vercel.app)
  
 ---
 
