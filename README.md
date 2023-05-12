@@ -1,9 +1,12 @@
 
 # Галерея / gallery
 
+---
 
-  [Посмотрите сами](wolf-gallery-indol.vercel.app)
-  
+### Deploy ссылка: 
+
+ wolf-gallery-indol.vercel.app
+ 
 ---
 
 ### Стек / Stack: 
