@@ -4,9 +4,7 @@
 ### Важное уточнение: Полностью выполнено с нуля, не готовый компонент из библиотеки!
 ---
 
-### Deploy ссылка: 
-
- [посмотреть](wolf-gallery-indol.vercel.app)
+### Deploy ссылка: wolf-gallery-indol.vercel.app
  
 ---
 
