@@ -1,27 +1,14 @@
+## React - gallery
 
-# Галерея / gallery
+### Please note: 
+### Hand written ! component ( gallery ); (not! ready-made component from the library)
 
-### Важное уточнение: Полностью выполнено с нуля, не готовый компонент из библиотеки!
+[demo](wolf-gallery-indol.vercel.app)
 ---
 
-### Deploy ссылка: wolf-gallery-indol.vercel.app
- 
----
-
-### Стек / Stack: 
+### Stack: 
 
 * Jsx
 * React
 * TypeScript
 
----
-
-
-### Инструкция по запуску: 
-
-1. Прямая ссылка vercel 
-2. || `npm run dev`
-
----
-
-## Не забудьте поставить звездочку ! ! ! ★ 
