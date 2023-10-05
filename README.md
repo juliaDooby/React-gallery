@@ -12,7 +12,7 @@
 [demo](https://wolf-gallery-indol.vercel.app)
 ---
 
-### Stack: 
+### Technologies Used:
 
 * Jsx
 * React
