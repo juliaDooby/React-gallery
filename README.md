@@ -5,8 +5,8 @@
 ### №1 Please note: Hand written ! component ( gallery ); 
 ### (not! ready-made component from the library)
 ---
-### №2 Please note: project code on master branch ((temporarily) 
-### - I'll resolve the issue soon, Thanks for understanding !
+## №2 Please note: project code on master branch ((temporarily) 
+## - I'll resolve the issue soon, Thanks for understanding !
 ---
 
 [demo](https://wolf-gallery-indol.vercel.app)
