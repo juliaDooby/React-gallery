@@ -6,13 +6,12 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+<a href="https://wolf-gallery-indol.vercel.app"><strong>➥Demo</strong></a>
+
 <div align="center"><img src="https://github.com/juliaDooby/React-gallery/blob/main/galleryShot.JPG" width="100%" height="20%"></img></div>
 
 ### Please note: Hand written ! component ( gallery ); 
 ### (not! ready-made component from the library)
----
-
-[demo](https://wolf-gallery-indol.vercel.app)
 ---
 
 ### Technologies Used:
